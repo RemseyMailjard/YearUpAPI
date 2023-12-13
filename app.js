@@ -6,10 +6,10 @@ const port = process.env.PORT || 8005;
 const jsonData = require("./data.json");
 
 app.get("/", (req, res) => {
-  res.send("Hello Year Up Class - Here is my Demo API");
+  res.send("Hello Year Up Class - Here is my Demo API. ");
 });
 
-app.get("/data", (req, res) => {
+app.get("/api/users", (req, res) => {
   res.json(jsonData);
 });
 
