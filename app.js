@@ -35,7 +35,7 @@ app.get("/", (req, res) => {
 
   // Send the formatted message as a response
   res.send(fullMessage);
-});
+});s
 
 app.get("/api/users", (req, res) => {
   res.json(jsonData);
