@@ -1,121 +1,137 @@
 [
     {
+        "ID": 1,
         "Name": "Andres Meraz",
         "Email": "ameraz@appdev.yearup.org",
         "GitHubProfile": "https://github.com/AndresMeraz",
         "CodingNickname": "The Game",
-        "Groupname": "Flexbox Forrest"
+        "Groupname": "CTRL Freaks",
+        "imageURL": "https://placeholder.com/andres"
     },
     {
+        "ID": 2,
         "Name": "Derek Li",
         "Email": "dli@appdev.yearup.org",
         "GitHubProfile": "https://github.com/deli123",
         "CodingNickname": "JavaScript Jedi",
-        "Groupname": "Flexbox Forrest"
+        "Groupname": "Eeveelutions",
+        "imageURL": "https://placeholder.com/derek"
     },
     {
+        "ID": 3,
         "Name": "Edson Peraza",
         "Email": "eperaza@appdev.yearup.org",
         "GitHubProfile": "https://github.com/perazae",
         "CodingNickname": "Puppeteer",
-        "Groupname": "404 not found"
+        "Groupname": "Eeveelutions",
+        "imageURL": "https://placeholder.com/edson"
     },
     {
+        "ID": 4,
         "Name": "Esther Ajayi",
         "Email": "eajayi@appdev.yearup.org",
         "GitHubProfile": "https://github.com/EWAjayi",
         "CodingNickname": "Escape Code",
-        "Groupname": "The Hackers"
+        "Groupname": "CTRL Freaks",
+        "imageURL": "https://placeholder.com/esther"
     },
     {
+        "ID": 5,
         "Name": "Isaac Cortes Hernandez",
         "Email": "icorteshernandez@appdev.yearup.org",
         "GitHubProfile": "https://github.com/icortes",
         "CodingNickname": "Cookies",
-        "Groupname": "Flexbox Forrest"
+        "Groupname": "ByteBuddies",
+        "imageURL": "https://placeholder.com/isaac"
     },
     {
+        "ID": 6,
         "Name": "Jose Pascua",
         "Email": "jpascua@appdev.yearup.org",
         "GitHubProfile": "https://github.com/JoseGPascua",
         "CodingNickname": "Database Brother",
-        "Groupname": "Too Much Code"
+        "Groupname": "Control Alt Defeat",
+        "imageURL": "https://placeholder.com/jose"
     },
     {
+        "ID": 7,
         "Name": "Juan Espinoza",
         "Email": "jpascua@appdev.yearup.org",
         "GitHubProfile": "https://github.com/JuanJEspinoza",
         "CodingNickname": "Code Shark",
-        "Groupname": "404 not found"
+        "Groupname": "Eeveelutions",
+        "imageURL": "https://placeholder.com/juan_e"
     },
     {
+        "ID": 8,
         "Name": "Juan Luis Moreno Rico",
         "Email": "jmorenorico@appdev.yearup.org",
         "GitHubProfile": "https://github.com/JuanLuisMorenoRico",
         "CodingNickname": "Tech Titan",
-        "Groupname": "The Hackers"
+        "Groupname": "ByteBuddies",
+        "imageURL": "https://placeholder.com/juan_l"
     },
     {
+        "ID": 9,
         "Name": "Justine Elbuhel",
         "Email": "jelbuhel@appdev.yearup.org",
         "GitHubProfile": "https://github.com/JustineElbuhel",
         "CodingNickname": "I kill bugs",
-        "Groupname": "The Hackers"
+        "Groupname": "CTRL Freaks",
+        "imageURL": "https://placeholder.com/justine"
     },
     {
+        "ID": 10,
         "Name": "Kayla McHenry",
         "Email": "kmchenry@appdev.yearup.org",
         "GitHubProfile": "https://github.com/KaylaMchenry",
-        "CodingNickname": "Flebox Fairy",
-        "Groupname": "Flexbox Forrest"
+        "CodingNickname": "Flexbox Fairy",
+        "Groupname": "Control Alt Defeat",
+        "imageURL": "https://placeholder.com/kayla"
     },
     {
+        "ID": 11,
         "Name": "Michael Nguyen",
         "Email": "mnguyen@appdev.yearup.org",
         "GitHubProfile": "https://github.com/MichaelNguyenTT",
         "CodingNickname": "Script Sorc",
-        "Groupname": "Flexbox Forrest"
+        "Groupname": "Control Alt Defeat",
+        "imageURL": "https://placeholder.com/michael"
     },
     {
+        "ID": 12,
         "Name": "Mia McClure",
         "Email": "mmcclure@appdev.yearup.org",
         "GitHubProfile": "https://github.com/MiaMcClure",
         "CodingNickname": "Flex Mo",
-        "Groupname": "The Hackers"
+        "Groupname": "ByteBuddies",
+        "imageURL": "https://placeholder.com/mia"
     },
     {
+        "ID": 13,
         "Name": "Nicolas Foong",
         "Email": "nfoong@appdev.yearup.org",
         "GitHubProfile": "https://github.com/NicolasFoong",
         "CodingNickname": "Tragic Bites",
-        "Groupname": "Too Much Code"
+        "Groupname": "Control Alt Defeat",
+        "imageURL": "https://placeholder.com/nicolas"
     },
     {
+        "ID": 14,
         "Name": "Pavlo Sernetskyi",
         "Email": "psernetskyi@appdev.yearup.org",
         "GitHubProfile": "https://github.com/PavloSernetskyi",
-        "CodingNickname": "Specificiy King",
-        "Groupname": "404 not found"
+        "CodingNickname": "Specificity King",
+        "Groupname": "ByteBuddies",
+        "imageURL": "https://placeholder.com/pavlo"
     },
     {
-        "Name": "Ravyn Rouse",
-        "Email": "rrouse@appdev.yearup.org",
-        "GitHubProfile": "https://github.com/RavynRouse",
-        "CodingNickname": "Stellar",
-        "Groupname": "404 not found"
-    },
-    {
-        "Name": "Rubia Agripino",
-        "Email": "ragripino@appdev.yearup.org",
-        "GitHubProfile": "https://github.com/ragripino",
-        "CodingNickname": "Code Queen",
-        "Groupname": "Too Much Code"
-    },
-    {
+        "ID": 15,
         "Name": "Victor Padilla",
         "Email": "vpadilla@appdev.yearup.org",
         "GitHubProfile": "https://github.com/VictorPadilla0861",
         "CodingNickname": "Viral Vato",
-        "Groupname": "Too Much Code"
+        "Groupname": "CTRL Freaks",
+        "imageURL": "https://placeholder.com/victor"
     }
 ]
