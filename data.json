@@ -6,7 +6,7 @@
         "GitHubProfile": "https://github.com/AndresMeraz",
         "CodingNickname": "The Game",
         "Groupname": "CTRL Freaks",
-        "imageURL": "https://placeholder.com/andres"
+        "imageURL": "https://picsum.photos/200/300"
     },
     {
         "ID": 2,
@@ -15,7 +15,7 @@
         "GitHubProfile": "https://github.com/deli123",
         "CodingNickname": "JavaScript Jedi",
         "Groupname": "Eeveelutions",
-        "imageURL": "https://placeholder.com/derek"
+        "imageURL": "https://picsum.photos/200/300"
     },
     {
         "ID": 3,
@@ -24,7 +24,7 @@
         "GitHubProfile": "https://github.com/perazae",
         "CodingNickname": "Puppeteer",
         "Groupname": "Eeveelutions",
-        "imageURL": "https://placeholder.com/edson"
+        "imageURL": "https://picsum.photos/200/300"
     },
     {
         "ID": 4,
@@ -33,7 +33,7 @@
         "GitHubProfile": "https://github.com/EWAjayi",
         "CodingNickname": "Escape Code",
         "Groupname": "CTRL Freaks",
-        "imageURL": "https://placeholder.com/esther"
+        "imageURL": "https://picsum.photos/200/300"
     },
     {
         "ID": 5,
@@ -42,7 +42,7 @@
         "GitHubProfile": "https://github.com/icortes",
         "CodingNickname": "Cookies",
         "Groupname": "ByteBuddies",
-        "imageURL": "https://placeholder.com/isaac"
+        "imageURL": "https://picsum.photos/200/300"
     },
     {
         "ID": 6,
@@ -51,7 +51,7 @@
         "GitHubProfile": "https://github.com/JoseGPascua",
         "CodingNickname": "Database Brother",
         "Groupname": "Control Alt Defeat",
-        "imageURL": "https://placeholder.com/jose"
+        "imageURL": "https://picsum.photos/200/300"
     },
     {
         "ID": 7,
@@ -60,7 +60,7 @@
         "GitHubProfile": "https://github.com/JuanJEspinoza",
         "CodingNickname": "Code Shark",
         "Groupname": "Eeveelutions",
-        "imageURL": "https://placeholder.com/juan_e"
+        "imageURL": "https://picsum.photos/200/300"
     },
     {
         "ID": 8,
@@ -69,7 +69,7 @@
         "GitHubProfile": "https://github.com/JuanLuisMorenoRico",
         "CodingNickname": "Tech Titan",
         "Groupname": "ByteBuddies",
-        "imageURL": "https://placeholder.com/juan_l"
+        "imageURL": "https://picsum.photos/200/300"
     },
     {
         "ID": 9,
@@ -78,7 +78,7 @@
         "GitHubProfile": "https://github.com/JustineElbuhel",
         "CodingNickname": "I kill bugs",
         "Groupname": "CTRL Freaks",
-        "imageURL": "https://placeholder.com/justine"
+        "imageURL": "https://picsum.photos/200/300"
     },
     {
         "ID": 10,
@@ -87,7 +87,7 @@
         "GitHubProfile": "https://github.com/KaylaMchenry",
         "CodingNickname": "Flexbox Fairy",
         "Groupname": "Control Alt Defeat",
-        "imageURL": "https://placeholder.com/kayla"
+        "imageURL": "https://picsum.photos/200/300"
     },
     {
         "ID": 11,
@@ -96,7 +96,7 @@
         "GitHubProfile": "https://github.com/MichaelNguyenTT",
         "CodingNickname": "Script Sorc",
         "Groupname": "Control Alt Defeat",
-        "imageURL": "https://placeholder.com/michael"
+        "imageURL": "https://picsum.photos/200/300"
     },
     {
         "ID": 12,
@@ -105,7 +105,7 @@
         "GitHubProfile": "https://github.com/MiaMcClure",
         "CodingNickname": "Flex Mo",
         "Groupname": "ByteBuddies",
-        "imageURL": "https://placeholder.com/mia"
+        "imageURL": "https://picsum.photos/200/300"
     },
     {
         "ID": 13,
@@ -114,7 +114,7 @@
         "GitHubProfile": "https://github.com/NicolasFoong",
         "CodingNickname": "Tragic Bites",
         "Groupname": "Control Alt Defeat",
-        "imageURL": "https://placeholder.com/nicolas"
+        "imageURL": "https://picsum.photos/200/300"
     },
     {
         "ID": 14,
@@ -123,7 +123,7 @@
         "GitHubProfile": "https://github.com/PavloSernetskyi",
         "CodingNickname": "Specificity King",
         "Groupname": "ByteBuddies",
-        "imageURL": "https://placeholder.com/pavlo"
+        "imageURL": "https://picsum.photos/200/300"
     },
     {
         "ID": 15,
@@ -132,6 +132,6 @@
         "GitHubProfile": "https://github.com/VictorPadilla0861",
         "CodingNickname": "Viral Vato",
         "Groupname": "CTRL Freaks",
-        "imageURL": "https://placeholder.com/victor"
+        "imageURL": "https://picsum.photos/200/300"
     }
 ]
