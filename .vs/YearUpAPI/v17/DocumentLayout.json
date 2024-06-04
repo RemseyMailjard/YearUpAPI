@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Remse\\Desktop\\Mijn portfolio\\C# .NET applicaties\\YearUpAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B1DC8-678C-4D9F-BC8A-EA4E539174EE}|YearUpAPI\\YearUpAPI.csproj|c:\\users\\remse\\desktop\\mijn portfolio\\c# .net applicaties\\yearupapi\\yearupapi\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6B1DC8-678C-4D9F-BC8A-EA4E539174EE}|YearUpAPI\\YearUpAPI.csproj|solutionrelative:yearupapi\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B1DC8-678C-4D9F-BC8A-EA4E539174EE}|YearUpAPI\\YearUpAPI.csproj|C:\\Users\\Remse\\Desktop\\Mijn portfolio\\C# .NET applicaties\\YearUpAPI\\yearupapi\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF6B1DC8-678C-4D9F-BC8A-EA4E539174EE}|YearUpAPI\\YearUpAPI.csproj|solutionrelative:yearupapi\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B1DC8-678C-4D9F-BC8A-EA4E539174EE}|YearUpAPI\\YearUpAPI.csproj|C:\\Users\\Remse\\Desktop\\Mijn portfolio\\C# .NET applicaties\\YearUpAPI\\yearupapi\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF6B1DC8-678C-4D9F-BC8A-EA4E539174EE}|YearUpAPI\\YearUpAPI.csproj|solutionrelative:yearupapi\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\Remse\\Desktop\\Mijn portfolio\\C# .NET applicaties\\YearUpAPI\\YearUpAPI\\local.settings.json",
+              "RelativeDocumentMoniker": "YearUpAPI\\local.settings.json",
+              "ToolTip": "C:\\Users\\Remse\\Desktop\\Mijn portfolio\\C# .NET applicaties\\YearUpAPI\\YearUpAPI\\local.settings.json",
+              "RelativeToolTip": "YearUpAPI\\local.settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-16T13:34:51.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\Remse\\Desktop\\Mijn portfolio\\C# .NET applicaties\\YearUpAPI\\YearUpAPI\\host.json",
+              "RelativeDocumentMoniker": "YearUpAPI\\host.json",
+              "ToolTip": "C:\\Users\\Remse\\Desktop\\Mijn portfolio\\C# .NET applicaties\\YearUpAPI\\YearUpAPI\\host.json",
+              "RelativeToolTip": "YearUpAPI\\host.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-16T13:34:22.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\Remse\\Desktop\\Mijn portfolio\\C# .NET applicaties\\YearUpAPI\\YearUpAPI\\Function1.cs",
+              "RelativeDocumentMoniker": "YearUpAPI\\Function1.cs",
+              "ToolTip": "C:\\Users\\Remse\\Desktop\\Mijn portfolio\\C# .NET applicaties\\YearUpAPI\\YearUpAPI\\Function1.cs",
+              "RelativeToolTip": "YearUpAPI\\Function1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-16T13:34:05.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
